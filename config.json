@@ -1,5 +1,5 @@
-<!-- more info: https://github.com/gautamkrishnar/github-pages-gallery
-  more info abous this file https://thumbsup.github.io/docs/3-configuration/usage/ -->
+/* more info: https://github.com/gautamkrishnar/github-pages-gallery
+  more info abous this file https://thumbsup.github.io/docs/3-configuration/usage/  */
 {
   "input": "./gallery",
   "output": "./build_output",
@@ -8,7 +8,7 @@
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
-  "theme": "cards", <!--types: cards, mosaic, classic, flow-->
+  "theme": "cards", /*types: cards, mosaic, classic, flow*/
   "css": "./custom.css",
   "footer": "Copyright Text",
   "usage-stats": false
