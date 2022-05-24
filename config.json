@@ -1,4 +1,5 @@
 //more info: https://github.com/gautamkrishnar/github-pages-gallery
+////more info abous this file: https://thumbsup.github.io/docs/3-configuration/usage/
 {
   "input": "./gallery",
   "output": "./build_output",
